@@ -1,0 +1,13 @@
+# Storytelling
+1°Week:
+At The moment we explore and understand the data and how they are correlated.
+First I have to see what are my types of columns that we were working:
+  and then we see that the columns = 'StudyTimeWeekly ', 'Absences','GPA ', are numeric as a integer or float Although,
+  ALL the other columns were in numeric type but they were categorical.
+Challenge:
+  Transform our data in categorical to see their correlation
+  Ways we can do this:
+    Using polychoric correlation categorical to categorical correlation
+    Or we can try ANOVA categorical to numeric correlation,
+    
+    I have no idea how can i use this, although I want to try:
